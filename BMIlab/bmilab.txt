@@ -1,0 +1,4 @@
+With a weight of 175.0, a height of 70.0, you have a BMI of 25.1 and you are overweight
+With a weight of 120.0, a height of 68.0, you have a BMI of 18.2 and you are underweight
+With a weight of 225.0, a height of 65.0, you have a BMI of 37.4 and you are obese
+With a weight of 140.0, a height of 67.0, you have a BMI of 21.9 and you are normal
